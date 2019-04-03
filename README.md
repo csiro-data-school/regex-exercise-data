@@ -3,8 +3,8 @@
 Data for regex tutorial examples and exercises.  
   
 Regex tutorial at:  
-https://spriggsy83.github.io/regex-tutorial/  
+https://csiro-data-school.github.io/regex/ 
   
   
 Tutorial repo at:  
-https://github.com/spriggsy83/regex-tutorial/tree/gh-pages  
+https://github.com/csiro-data-school/regex/tree/gh-pages/ 
